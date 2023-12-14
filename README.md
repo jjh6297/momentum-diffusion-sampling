@@ -1,4 +1,4 @@
-# Momentum_Stable_Diffusion
+# Momentum_Diffusion_Sampling
 
 <!---Code for ["Rethinking Peculiar Images by Diffusion Models: Revealing Local Minima’s Role"]-->
 
